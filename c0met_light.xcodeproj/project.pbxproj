@@ -546,7 +546,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "kex.c0met-light";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = /Users/ali/Desktop/c0met_light/c0met_light/jb_BridgingHeader.h;
+				SWIFT_OBJC_BRIDGING_HEADER = ./c0met_light/jb_BridgingHeader.h;
 				SWIFT_PRECOMPILE_BRIDGING_HEADER = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -572,7 +572,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "kex.c0met-light";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = /Users/ali/Desktop/c0met_light/c0met_light/jb_BridgingHeader.h;
+				SWIFT_OBJC_BRIDGING_HEADER = ./c0met_light/jb_BridgingHeader.h;
 				SWIFT_PRECOMPILE_BRIDGING_HEADER = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
